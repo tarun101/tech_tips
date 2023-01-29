@@ -1,0 +1,11 @@
+There is a known issue that:
+    if you have a non-Google email address which is set as an alternative address for a Google hosted account (with or without email)
+    then any calendar invites sent by google users to this email address will not arrive at your non-google email address
+    they will instead go to your google hosted account that is set as an alternative address.
+    
+This seems to be intentional and not a bug.
+  as the purpose of alternate email address - according to Google - is to receive emails sent AT alternative email address in your google account.
+
+To ensure that calendar invites to your non-Google hosted email address arrive correctly?
+    you will need to remove it as an alternative email address.
+    google provides instructions on this page: https://support.google.com/accounts/answer/176347
